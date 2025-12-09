@@ -41,7 +41,8 @@ Select the date range, or turn off the button to grab everything.
 
 Lastly, hit Submit and wait for your data to be ready to download. Once it's downloaded, unzip it somewhere you will have space for your photos and videos. 
 
-The JSON file you'll need to drag onto the GUI window, is labeled **memories_history.json**
+At this point you can run the .exe if desired and select your download folder. Then from your exported Snapchat data, under JSON, drag `memories_history.json` into the GUI window to download. 
+
 ## GUI Mode
 ```
 python -m snap_backup.cli --gui
