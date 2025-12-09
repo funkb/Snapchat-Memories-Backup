@@ -27,6 +27,17 @@ Dependencies:
 
 ## 🚀 Usage
 
+## Get your memories and JSON data
+Go to your accounts page in a browser:
+```
+https://accounts.snapchat.com/v2/download-my-data
+```
+
+Select at least these two options to download your memories successfully:
+![img1](https://github.com/funkb/Snapchat-Memories-Backup/blob/main/snapDataSelect.PNG?raw=true)
+
+Select the date range, or turn off the button to grab everything. 
+![img2](https://github.com/funkb/Snapchat-Memories-Backup/blob/main/Snap_dateRange.PNG?raw=true)
 ## GUI Mode
 ```
 python -m snap_backup.cli --gui
