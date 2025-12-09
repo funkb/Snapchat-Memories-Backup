@@ -37,6 +37,7 @@ Options:
 --gui : launch GUI instead of CLI
 
 ## 🗂 Project Structure
+```
 snap_backup/
 ├── snap_backup/
 │   ├── __init__.py
@@ -50,6 +51,7 @@ snap_backup/
 │   └── test_download.py
 ├── requirements.txt
 └── README.md
+```
 
 ## 🧪 Running Tests
 Install pytest if needed:
