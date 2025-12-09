@@ -1,8 +1,8 @@
 ## Snapchat Memories Downloader
 
-This is a Python project that helps you download and organize your Snapchat Memories from the exported JSON file. It can fix disguised ZIP overlays, track progress, and provides both a GUI and CLI interface.
+This is a Python project that helps you download and organize your Snapchat Memories by the date they were created. It tracks progress, and provides both a GUI and CLI interface.
 
-When requesting your data to be exported from Snapchat, make sure to 'include JSON files' with your download. 
+This was cobbled together in order to backup old photos and memories before the 5GB storage limit is put in place, and old memories are deleted. 
 
 ## ✨ Features
 - 📥 Download media files from Snapchat Memories JSON
