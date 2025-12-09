@@ -34,10 +34,10 @@ https://accounts.snapchat.com/v2/download-my-data
 ```
 
 Select at least these two options to download your memories successfully:
-![img1](https://github.com/funkb/Snapchat-Memories-Backup/blob/main/snapDataSelect.PNG?raw=true)
+![img1](./img/snapDataSelect.PNG)
 
 Select the date range, or turn off the button to grab everything. 
-![img2](https://github.com/funkb/Snapchat-Memories-Backup/blob/main/Snap_dateRange.PNG?raw=true)
+![img2](./img/Snap_dateRange.PNG)
 ## GUI Mode
 ```
 python -m snap_backup.cli --gui
