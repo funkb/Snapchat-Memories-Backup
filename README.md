@@ -85,8 +85,5 @@ pyinstaller --onefile --windowed snap_backup/gui_entry.py --name SnapBackup
 This produces dist/SnapBackup.exe which launches the GUI directly when double‑clicked.
 
 
-## 🤝 Contributing
-Pull requests are welcome! Please add tests for new features.
-
 ## 📄 License
 MIT License
